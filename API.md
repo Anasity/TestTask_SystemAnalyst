@@ -10,7 +10,7 @@
 
 ## Пример REST API запроса
 ```
-GET /api/v1/partners
+GET https://petrushka.ru/api/v1/partners
 Accept: application/json
 ```
 
