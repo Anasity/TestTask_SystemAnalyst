@@ -11,8 +11,8 @@ GET /api/v1/partners
 Accept: application/json
 
 ## Пример ответа REST API
-{
-  "partners": [
+{  
+  "partners": [  
     {
       "id": 1,
       "name": "METRO",
