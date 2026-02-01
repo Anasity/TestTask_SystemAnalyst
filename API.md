@@ -13,7 +13,7 @@ GET /api/v1/partners
 Accept: application/json
 
 ## Пример ответа REST API
-'''
+```
 {  
 "partners": [
         {
@@ -47,5 +47,5 @@ Accept: application/json
   ]
   
 }
-'''
+```
 
