@@ -10,7 +10,7 @@
 
 ## Пример REST API запроса
 ```
-GET https://petrushka.ru/api/v1/partners
+GET https://petrushka.ru/api/partners
 Accept: application/json
 ```
 
@@ -22,7 +22,7 @@ Accept: application/json
       "id": 1,
       "name": "METRO",
       "delivery_info": "Ближайшая доставка сегодня 21:00–23:00",
-      "external_url": "https://metro-cc.ru",
+      "external_url": "https://www.metro.ru",
       "icon_url": "https://cdn.petrushka.ru/icons/metro.png"
     },
     {
