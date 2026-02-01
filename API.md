@@ -14,8 +14,8 @@ Accept: application/json
 
 ## Пример ответа REST API
 {  
-  "partners": [  
-    {
+  "partners": [
+        {
       "id": 1,
       "name": "METRO",
       "delivery_info": "Ближайшая доставка сегодня 21:00–23:00",
