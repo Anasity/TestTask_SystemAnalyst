@@ -13,8 +13,9 @@ GET /api/v1/partners
 Accept: application/json
 
 ## Пример ответа REST API
+'''
 {  
-> "partners": [
+"partners": [
         {
       "id": 1,
       "name": "METRO",
@@ -44,5 +45,7 @@ Accept: application/json
       "icon_url": "https://cdn.petrushka.ru/icons/victoria.png"
     }
   ]
+  
 }
+'''
 
